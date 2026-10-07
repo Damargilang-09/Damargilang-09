@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damar Gilang Ardina</h1>
 <h3 align="center">Full-stack developer from Indonesia who loves designing REST APIs and solid backend systems.</h3>
 
-- 🔭 I’m currently working on [popo laundry](kelompokfinalsehat/Laundry-Frontend)
+- 🔭 I’m currently working on [popo laundry](https://laundryapp-ui.vercel.app/)
 
 - 🌱 I’m currently learning **REST API design, Node.js, TypeScript, Prisma, and Next.js**
 
